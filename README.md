@@ -1,6 +1,8 @@
 # Updates
 
-Updated by me (Nicholas-Vo) to allow trusted players to break protections.
+Updated by the Java Survival team to allow players who are trusted to break protections as well as access them
+
+------------
 
 # LWC Trust
 A trust module for LWC protection plugin. You can download stable releases of the plugin from the [Spigot resource page](https://www.spigotmc.org/resources/lwc-trust.75580/)
