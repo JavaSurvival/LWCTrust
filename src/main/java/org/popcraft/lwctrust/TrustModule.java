@@ -4,7 +4,6 @@ import com.griefcraft.model.Permission;
 import com.griefcraft.scripting.JavaModule;
 import com.griefcraft.scripting.event.LWCAccessEvent;
 import com.griefcraft.scripting.event.LWCProtectionDestroyEvent;
-import com.griefcraft.scripting.event.LWCProtectionEvent;
 
 import java.util.List;
 import java.util.UUID;
