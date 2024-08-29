@@ -14,10 +14,21 @@ import org.popcraft.lwctrust.locale.UTF8Control;
 
 import java.io.File;
 import java.io.InputStream;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.Locale;
+import java.util.ResourceBundle;
+import java.util.UUID;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
+
+/**
+ * Updated on August 28th, 2024 by _NickVo
+ * Allowing players who are trusted to break protections
+ */
 
 public final class LWCTrust extends JavaPlugin {
 
