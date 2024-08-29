@@ -1,5 +1,5 @@
 name: LWCTrust
-version: @version@
+version: 1
 main: org.popcraft.lwctrust.LWCTrust
 api-version: "1.13"
 load: STARTUP
